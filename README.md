@@ -1,2 +1,2 @@
-# PortainerAppTemplates
-App templates for Portainer
+# LinuxResources
+Linux resources for newly created linux installation.
